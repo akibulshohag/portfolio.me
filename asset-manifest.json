@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/github.io/portfolio.me/static/css/main.884669db.css",
+    "main.js": "/github.io/portfolio.me/static/js/main.e476c997.js",
+    "static/media/akib.jpg": "/github.io/portfolio.me/static/media/akib.40d888b3e85a13eff850.jpg",
+    "static/media/essa.png": "/github.io/portfolio.me/static/media/essa.7a898e1a01cb80b80fb0.png",
+    "static/media/online.PNG": "/github.io/portfolio.me/static/media/online.61846ffccf8c84ec41ec.PNG",
+    "static/media/sell.PNG": "/github.io/portfolio.me/static/media/sell.fbded4d04566417cb1ae.PNG",
+    "static/media/matri.PNG": "/github.io/portfolio.me/static/media/matri.f8a867196da431b1c8b9.PNG",
+    "static/media/resume.pdf": "/github.io/portfolio.me/static/media/resume.944ae2c2747f86318de8.pdf",
+    "static/media/boy.png": "/github.io/portfolio.me/static/media/boy.5ca4b670a32b71681d2c.png",
+    "static/media/kistiamth.jpeg": "/github.io/portfolio.me/static/media/kistiamth.0efeafe3a75293242d8c.jpeg",
+    "static/media/glassesimoji.png": "/github.io/portfolio.me/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/2.png": "/github.io/portfolio.me/static/media/2.bfeecc049debacd7f128.png",
+    "static/media/thumbup.png": "/github.io/portfolio.me/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/github.io/portfolio.me/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/github.io/portfolio.me/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/github.io/portfolio.me/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/github.io/portfolio.me/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/github.io/portfolio.me/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/github.io/portfolio.me/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/github.io/portfolio.me/index.html",
+    "main.884669db.css.map": "/github.io/portfolio.me/static/css/main.884669db.css.map",
+    "main.e476c997.js.map": "/github.io/portfolio.me/static/js/main.e476c997.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.884669db.css",
+    "static/js/main.e476c997.js"
+  ]
+}
